@@ -1,2 +1,0 @@
-temp:
-	echo "Temp"
